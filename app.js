@@ -5,7 +5,7 @@ const CONFIG = {
     SHEET_GID: 0, // Sheet1'ning GID'si
     
     // Google Apps Script Web App URL (CORS muammosini hal qiladi)
-    APPS_SCRIPT_URL: 'https://script.google.com/macros/s/AKfycbwsKE6dmeE22aSXN-M8lxdDHuS7gz1X0OCmK81jzeqc1xw7IJMJ8Bl1M_DRE3NablhDIA/exec',
+    APPS_SCRIPT_URL: 'https://script.google.com/macros/s/AKfycbw14Xe-eOokP5JMlaRAaoelxfySTA6oN-jKoVPv7CxouYEvV1wqszAMKfm73UbktPOl1g/exec',
     
     // Google Sheets API URL
     get API_URL() {
